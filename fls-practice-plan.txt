@@ -1,0 +1,5 @@
+Practice plan
+- practice java programming
+  * java desktop
+  * non database
+- practice javascript
